@@ -15,7 +15,7 @@ The primary task here was simply to open a PDF file, decode it, change one word,
 2. **Install Aspose.Pdf Library** Install Aspose library using this command : dotnet add package Aspose.Pdf
 
 3. **Change the pdf Directory** Update the PDF directory path in the code. Refer to the image for guidance
-[pdfDirectory](./assets/images/pdfDirectory.png)
+![pdfDirectory](./assets/images/pdfDirectory.png)
 
 ### Commands
 
